@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm 綺文</h1>
-- 📚 I’m currently studying in **National Yang Ming Chiao Tung University**
+<h1 align="center">Hi, I'm 綺文 🙋🏻‍♀️</h1>
 
-- 👩🏻‍💻 I’m currently learning **information management**
+- 📚 I’m currently studying at **National Yang Ming Chiao Tung University**.
 
-- 🎶 I’m currently working on **a music recommendation system**
+- 👩🏻‍💻 I’m majoring in **Information Management**.
 
-- 💡 I’m looking for **an internship**
+- 🎶 I’m currently developing **a music recommendation system**.
+
+- 💡 I'm actively seeking **internship opportunities**.
 
 - 📫 How to reach me **chiwen.mg12@nycu.edu.tw**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
